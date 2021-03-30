@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+header{
+  background-color: PaleTurquoise; 
+color: darkblue;
+}
+.buton{
+    text-decoration:3px ;
+    margin:2px ;
+    padding:2px ;
+    background-color:white ;
+    border-radius:4px ;
+    }
+    h1{
+     background-color:PaleTurquoise ;  
+     color:darkblue ; 
+     }
+     footer p{
+         border:LightYellow ;
+         color:white ;
+         background-color:blue ;
+         }
+
+       nav a{
+      
+       text-decoration:none ;
+       color: white;
+       border:3px solid navy;
+       border-radius:10px ;
+       background-color: navy; 
+       margin:10px;
+       }
+       .production{ 
+       background-color:white ;
+       color: navy;
+       }
+       p img{
+          Text-decoration:none ;
+       color: white;
+       border:3px solid navy;
+       border-radius:10px ;
+       background-color: white; 
+       margin:10px;
+      }
+      h2{
+       color: blue;
+       }
+       .picture{
+       border:5px solid DodgerBlue ;
+       border-radius:10px ;
+       }
+       .contact{
+           border:2px solid LightSkyBlue ;
+           text-decoration:none ;
+           margin: 10 px;
+           padding:10px ;
+       }
+       .up{
+          border:3px solid RoyalBlue ;
+           text-decoration:none ;
+           margin: 10 px;
+           padding:10px ;
+           color:MediumPurple ;
+       }
+
+       
+
+
+    
+      
+      
+
